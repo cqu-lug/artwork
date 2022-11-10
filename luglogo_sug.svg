@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 425.25 425.25" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="425.25" width="425.25" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="layer1">
+<path d="M212.625 408.871L26.4569 86.4181L398.793 86.4181L212.625 408.871Z" fill="none" opacity="0.999" stroke="#0152a6" stroke-linecap="round" stroke-linejoin="miter" stroke-width="14.175"/>
+<g opacity="1">
+<path d="M68.5961 86.4181L99.4671 54.2868L115.887 67.508L151.371 46.9964L148.115 26.2004L184.442 16.4205L192.049 36.0739L233.036 36.0526L240.627 16.3793L276.965 26.1008L273.725 46.9328L309.231 67.4077L325.637 54.1692L357.91 86.4181L68.5961 86.4181Z" fill="none" opacity="1" stroke="#0152a6" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10.3238"/>
+</g>
+<path d="M212.625 408.871L26.4569 86.4181L212.625 408.871L398.793 86.4181L212.625 408.871Z" fill="none" opacity="0.999" stroke="#0152a6" stroke-linecap="round" stroke-linejoin="miter" stroke-width="14.175"/>
+<path d="M153.394 300.015L273.902 299.061" fill="none" opacity="0.999" stroke="#0152a6" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="7.27011"/>
+<path d="M186.108 95.76C338.194 95.76 193.52 258.733 279.161 294.901" fill="none" opacity="0.999" stroke="#0152a6" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7.17727"/>
+<path d="M746.986 394.862C741.132 398.114 744.316 396.546 737.373 399.439" fill="none" opacity="0.999" stroke="#0152a6" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7.17727"/>
+<path d="M147.857 89.8519C294.499 89.8519 71.0155 252.794 205.375 299.15" fill="none" opacity="0.999" stroke="#0152a6" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7.17727"/>
+<path d="M172.53 282.083C172.569 282.011 144.894 290.806 156.277 301.31" fill="none" opacity="0.999" stroke="#0152a6" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7.17727"/>
+<path d="M192.115 157.238C228.719 157.238 169.499 253.215 248.106 224.372" fill="none" opacity="0.999" stroke="#0152a6" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7.17727"/>
+</g>
+</svg>
