@@ -1,3 +1,3 @@
 # LUG@CQU Artwork
 
-- [logo](https://github.com/cqu-lug/artwork/logo/): LUG@CQU的logo
+- [logo](https://github.com/cqu-lug/artwork/tree/main/logo/): LUG@CQU的logo
